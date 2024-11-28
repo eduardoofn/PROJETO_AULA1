@@ -13,3 +13,5 @@ lista = [1,3,5,7,10]
 lista.reverse()
 
 print(lista)
+
+print("Nayure Oliveira <3")
